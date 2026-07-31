@@ -1,2 +1,2 @@
-# LeetCode-Java
-Daily Java LeetCode Solutions
+# LeetCode/Hackerrank-Java
+Daily Java LeetCode/Hackerrank Solutions
